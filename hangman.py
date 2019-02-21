@@ -124,19 +124,3 @@ while True:
             secretWord = getRandomWord(words)
         else:
             break
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
